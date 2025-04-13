@@ -4,8 +4,11 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🔍 Overview
 
-![Screenshot 2025-04-13 154902](https://github.com/user-attachments/assets/a66f9ce3-628c-4ed3-98f0-bf8553d45e3a)
+![Screenshot 2025-04-13 200758](https://github.com/user-attachments/assets/254fb3bd-6cbc-4724-bb8d-d740d9560f65)
 
+![Screenshot 2025-04-13 200815](https://github.com/user-attachments/assets/5cff4cbc-780b-4756-b496-74fd51c5a991)
+
+![Screenshot 2025-04-13 200826](https://github.com/user-attachments/assets/41428fbc-b79f-497c-8338-88ba3d5a4e15)
 
 ## 🛠️ Features
 
@@ -17,7 +20,7 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🚀 Demo
 
-> You can play the game live here: 👉 [Show Demo](https://tic-tac-toe-6969.netlify.app/)
+> You can play the game live here: 👉 [Show Demo](https://rock-paper-scissors-game69.netlify.app/)
 
 ## 🧰 Tools Used
 
