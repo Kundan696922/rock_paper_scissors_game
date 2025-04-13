@@ -4,7 +4,7 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🔍 Overview
 
-![Screenshot 2025-04-13 200758](https://github.com/user-attachments/assets/254fb3bd-6cbc-4724-bb8d-d740d9560f65)
+![Screenshot 2025-04-13 221828](https://github.com/user-attachments/assets/a2d6673a-1ab6-48dd-8bfc-3024045cb137)
 
 ![Screenshot 2025-04-13 200815](https://github.com/user-attachments/assets/5cff4cbc-780b-4756-b496-74fd51c5a991)
 
