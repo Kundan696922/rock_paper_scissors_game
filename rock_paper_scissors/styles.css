@@ -1,0 +1,94 @@
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+:root {
+  --main-1: #eff9d6;
+  --main-2: #ba5044;
+  --main-3: #7a1c4b;
+  --main-4: #1b0326;
+}
+
+body {
+  background-color: var(--main-1);
+  text-align: center;
+  color: var(--main-4);
+}
+
+h1 {
+  margin: 15px 0 20px;
+}
+
+.btn {
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  color: var(--main-1);
+  background-color: var(--main-3);
+  background-image: linear-gradient(var(--main-2), var(--main-4));
+  border-color: var(--main-4);
+  border-width: 3px;
+  border-radius: 2rem;
+}
+
+.btn:hover {
+  background-image: linear-gradient(var(--main-2), var(--main-3));
+}
+
+
+
+.rules-container {
+  padding: 10px 0;
+  margin: auto;
+  border-radius: 15px;
+  border: 5px solid var(--main-3);
+  background-color: var(--main-2);
+  color: var(--main-1);
+}
+
+.rules-container ul {
+  list-style-type: none;
+}
+
+.rules-container p {
+  margin: 10px 0;
+}
+
+@media (min-width: 760px) {
+  .rules-container {
+    width: 60%;
+  }
+}
+
+.score-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+  font-size: 1.2rem;
+}
+
+.score {
+  font-weight: 500;
+}
+
+.results-container {
+  font-size: 1.3rem;
+  margin: 15px 0;
+}
+
+#winner-msg {
+  margin-top: 25px;
+}
+
+#reset-game-btn {
+  display: none;
+  margin: 20px auto;
+} 
