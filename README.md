@@ -38,8 +38,7 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 1. **Clone or download** the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/Kundan696922/rock_paper_scissors_game.git
 2. Open the game:
 
    - Simply open the index.html file in your web browser.
